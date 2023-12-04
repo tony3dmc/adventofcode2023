@@ -5,7 +5,7 @@ PUZZLE_INPUT = 'example.txt'
 
 # Day X: <puzzle name>, Part 1
 def main():
-    lines = get_input('example.txt')
+    lines = get_input(PUZZLE_INPUT)
 
 
 # Puzzle solution functions below
