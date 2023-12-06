@@ -14,3 +14,6 @@ Always enjoy the puzzles where you operate in 2D space. My boundary checking fel
 
 ## Day 4: Scratchcards
 Sets. lists and a while loop for an iterative approach to the solution, spent more time bug fixing boundary conditions.
+
+## Day 5: If You Give A Seed A Fertilizer
+Didn't pay attention to the size of the values in the puzzle input and wrote a niaive solution which I completely regretted in part2 when discovering they were ranges, and that my loops would now iterate many billions of times. Skipped part2 for now, will return and write a version that performs boundary checking instead.
